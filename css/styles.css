@@ -10133,3 +10133,11 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.codeigniter-logo {
+  height: auto;
+  width: 55px;
+  opacity: 70%;
+  position: relative;
+  top: -10px;
+}
