@@ -10141,3 +10141,10 @@ section.resume-section .resume-section-content {
   position: relative;
   top: -10px;
 }
+
+.mysql-logo {
+  width: 80px;
+  position: relative;
+  opacity: 58%;
+  top: -10px;
+}
