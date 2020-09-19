@@ -10148,3 +10148,11 @@ section.resume-section .resume-section-content {
   opacity: 58%;
   top: -10px;
 }
+
+.postman-logo {
+  position: relative;
+  height: auto;
+  width: 50px;
+  top: -8px;
+  opacity: 50%;
+}
